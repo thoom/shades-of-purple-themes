@@ -1,0 +1,26 @@
+name: Shades of Purple (Light)
+accent: "#5706A2"
+background: "#EBE7FF"
+selection: "#D6CFFF"
+foreground: "#191830"
+cursor: "#FAD000"
+details: darker
+terminal_colors:
+  normal:
+    black: "#191830"
+    red: "#D81B60"    # Dark SOP Red (Readable Text)
+    green: "#1B5E20"  # Dark SOP Green (Readable Text)
+    yellow: "#BF7600" # Dark SOP Gold (Readable Text)
+    blue: "#5706A2"   # Dark SOP Purple (Readable Text)
+    magenta: "#7B1FA2" # Dark SOP Magenta (Readable Text)
+    cyan: "#007399"   # Dark SOP Cyan (Readable Text)
+    white: "#191830"  # Near Black (For high-contrast suggestions)
+  bright:
+    black: "#7870AB"
+    red: "#E17291"    # Dusty SOP Red (Prompt Segments)
+    green: "#94D397"  # Dusty SOP Green (Prompt Segments)
+    yellow: "#FAD000" # SOP Yellow
+    blue: "#8A79E0"   # Dusty SOP Purple (Prompt Segments)
+    magenta: "#C599FF" # Dusty SOP Lavender (Prompt Segments)
+    cyan: "#88DDE8"   # Dusty SOP Cyan (Prompt Segments)
+    white: "#5706A2"  # Deep Purple

@@ -1,0 +1,13 @@
+# Ignore everything.
+*
+**/**
+
+# Whitelist what's needed to build the VS Code extension.
+!.vscodeignore
+!package.json
+!images/icon/logo.png
+!shades-of-purple-color-theme.json
+!shades-of-purple-color-theme-super-dark.json
+!shades-of-purple-color-theme-light.json
+!shades-of-purple-color-theme-italic.json
+!LICENSE.md

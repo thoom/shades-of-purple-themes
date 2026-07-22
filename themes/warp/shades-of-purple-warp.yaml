@@ -1,0 +1,25 @@
+name: Shades of Purple
+accent: "#FAD000"
+background: "#2D2B55"
+foreground: "#FFFFFF"
+cursor: "#FAD000"
+details: darker
+terminal_colors:
+  normal:
+    black: "#000000"
+    red: "#EC3A37"
+    green: "#3AD900"
+    yellow: "#FAD000"
+    blue: "#7857FE"
+    magenta: "#FF2C70"
+    cyan: "#80FCFF"
+    white: "#FFFFFF"
+  bright:
+    black: "#5C5C61"
+    red: "#EC3A37"
+    green: "#3AD900"
+    yellow: "#FAD000"
+    blue: "#6943FF"
+    magenta: "#FB94FF"
+    cyan: "#80FCFF"
+    white: "#FFFFFF"
